@@ -28,7 +28,7 @@ Pour ce qui est du gout de la sauce, il est possible de choisir entre plusieurs 
 * 600 g de viande
 * 800 g de legumes
 
-### Pour la sauce
+### Pour la marinade
 * 30 cl de sauce soja
 * 15 cl de nuok nam (facultatif)
 * 3 cuillères à soupe de graine de sésame (facultatif)
@@ -40,13 +40,15 @@ Pour ce qui est du gout de la sauce, il est possible de choisir entre plusieurs 
 
 ### Pour l'accompagnement
 * Du riz (basmati, rond ...)
+* ou des nouilles (de blé, riz ...)
 
 ## La préparation
 
-* Mélanger tous les ingrédients de la sauce dans un grand bol et ajouter 20cl d'eau chaude
-* Faire cuire les oignons dans l'huile d'olive jusqu'à ce qu'ils soient transparents
-* Ajouter les légumes coupés en lamelle et faire cuire 5 minutes
-* Couper la viande en fine lamelle et ajouter aux légumes
-* Une fois la viande grillée, ajouter la sauce, saler, poivrer et mettre a feu fort pour faire réduire
-* Arreter le feu lorsque la sauce est bien réduite et commence à s'épaissir
-* Servir chaud avec le riz
+* Couper tous les légumes en lamelle, faire bouillir une casserolle d'eau salée, faire blanchir les légumes 5 minutes
+* Pendant ce temps faire dorer la viande dans le wok directement
+* Mélanger tous les ingrédients de la marinade dans un grand bol et ajouter 20cl d'eau chaude
+* Retirer et essorer les légumes, en conservant l'eau bouillante pour les nouilles
+* Ajouter les légumes essorés dans le wok avec la viande à feu fort en mélangeant vigoureusement
+* Une fois les légumes grillés, ajouter la marinade saler, poivrer et mettre a feu fort pour faire réduire
+* Pendant ce temps faire cuire les nouilles 2 minutes dans le bouillon et les jeter dans le wok
+* Arreter le feu après réduction
